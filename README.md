@@ -1,6 +1,6 @@
 # Power-BI-Dashboard-Oct-18th-2026
 
-![Dashboard Page 1](/images/i1.png)
+![Dashboard](i1.png)
 
 ## Introduction
 
@@ -18,3 +18,46 @@ This project was a journey through key Power BI features. Here's a look at what 
   - **Slicers:** To dynamically filter the report by Job Title.
   - **Buttons & Bookmarks:** To create a seamless navigation experience.
   - **Drill-Through:** To navigate from a high-level summary to a contextual, detailed view.
+
+ ## Dashboard Overview
+ This report is split into two distinct pages to provide both a high-level summary and a detailed analysis.
+
+ ### Page 1: High-Level Market View 
+![Dashboard](i1.png)
+
+This is your mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
+
+### Page 2: Job Title Drill Through
+
+![Dashboard Page 2](i2.png)
+This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
+
+## Conclusion 
+This dashboard showcases how Power BI can transform raw job posting data into a powerful tool for career analysis. It allows users to slice, filter, and drill through data to make informed decisions about their career paths.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
